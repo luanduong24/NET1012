@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Bai3
 {
-    public partial class Form1: Form
+    public partial class Form1 : Form
     {
         public Form1()
         {
@@ -21,7 +14,13 @@ namespace Bai3
         {
 
         }
-     
+
+        private bool IsPerfectSquare(int num)
+        {
+            if (num < 0) return false;
+            int sqrt = (int)Math.Sqrt(num);
+            return sqrt * sqrt == num;
+        }
 
         private int UCLN(int a, int b)
         {
@@ -41,24 +40,30 @@ namespace Bai3
 
         private void btnTim_Click_1(object sender, EventArgs e)
         {
-            if (int.TryParse(txtSoThuNhat.Text, out int a) && int.TryParse(txtSoThuHai.Text, out int b))
+            if (!int.TryParse(txtSoThuNhat.Text, out int a))
             {
-                if (rbUCLN.Checked)
+                MessageBox.Show("Vui lòng nhập số nguyên hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (rbUCLN.Checked || rbBCNN.Checked)
+            {
+                if (!int.TryParse(txtSoThuHai.Text, out int b))
                 {
-                    txtKetQua.Text = UCLN(a, b).ToString();
+                    MessageBox.Show("Vui lòng nhập số nguyên hợp lệ cho số thứ hai!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
                 }
-                else if (rbBCNN.Checked)
-                {
-                    txtKetQua.Text = BCNN(a, b).ToString();
-                }
-                else
-                {
-                    MessageBox.Show("Vui lòng chọn một chức năng!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                }
+
+                txtKetQua.Text = rbUCLN.Checked ? UCLN(a, b).ToString() : BCNN(a, b).ToString();
+            }
+            else if (rbKTCP.Checked)
+            {
+                txtKetQua.Text = IsPerfectSquare(a) ? $"{a} là số chính phương." : $"{a} không phải số chính phương.";
+                txtKetQua.ForeColor = IsPerfectSquare(a) ? System.Drawing.Color.Green : System.Drawing.Color.Red;
             }
             else
             {
-                MessageBox.Show("Vui lòng nhập số nguyên hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Vui lòng chọn một chức năng!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
@@ -67,13 +72,23 @@ namespace Bai3
             txtSoThuNhat.Clear();
             txtSoThuHai.Clear();
             txtKetQua.Clear();
-            rbUCLN.Checked = false;
-            rbBCNN.Checked = false;
+            rbUCLN.Checked = rbBCNN.Checked = rbKTCP.Checked = false;
+            txtSoThuHai.Enabled = true;
         }
 
         private void btnThoat_Click_1(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void rbKTCP_CheckedChanged(object sender, EventArgs e)
+        {
+            txtSoThuHai.Enabled = !rbKTCP.Checked;
+        }
+
+        private void lblKetQua_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -52,6 +52,7 @@
             this.label1.Size = new System.Drawing.Size(103, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tên khách hàng";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox1
             // 
@@ -59,6 +60,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(245, 22);
             this.textBox1.TabIndex = 1;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // chkCaoVoi
             // 
@@ -148,7 +150,7 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(229, 272);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(86, 20);
+            this.label6.Size = new System.Drawing.Size(69, 16);
             this.label6.TabIndex = 11;
             this.label6.Text = "Thành tiền";
             // 
@@ -193,6 +195,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Dịch vụ nha khoa";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

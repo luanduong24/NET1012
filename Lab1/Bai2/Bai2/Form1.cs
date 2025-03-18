@@ -19,6 +19,11 @@ namespace Bai2
 
         private void btnTinhTien_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(textBox1.Text))
+            {
+                MessageBox.Show("Vui lòng nhập tên khách hàng","Canh bao",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+                return;
+            }
             int tongTien = 0;
 
             if (chkCaoVoi.Checked) tongTien += 150000;
@@ -32,6 +37,21 @@ namespace Bai2
         private void btnThoat_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

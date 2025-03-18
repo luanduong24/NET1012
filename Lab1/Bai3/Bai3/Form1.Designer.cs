@@ -41,6 +41,7 @@
             this.btnTim = new System.Windows.Forms.Button();
             this.btnBoQua = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
+            this.rbKTCP = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -92,11 +93,12 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.rbKTCP);
             this.groupBox2.Controls.Add(this.rbBCNN);
             this.groupBox2.Controls.Add(this.rbUCLN);
             this.groupBox2.Location = new System.Drawing.Point(425, 34);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(200, 127);
+            this.groupBox2.Size = new System.Drawing.Size(229, 156);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Chức năng";
@@ -126,17 +128,18 @@
             // lblKetQua
             // 
             this.lblKetQua.AutoSize = true;
-            this.lblKetQua.Location = new System.Drawing.Point(193, 222);
+            this.lblKetQua.Location = new System.Drawing.Point(99, 222);
             this.lblKetQua.Name = "lblKetQua";
             this.lblKetQua.Size = new System.Drawing.Size(52, 16);
             this.lblKetQua.TabIndex = 2;
             this.lblKetQua.Text = "Kết quả";
+            this.lblKetQua.Click += new System.EventHandler(this.lblKetQua_Click);
             // 
             // txtKetQua
             // 
-            this.txtKetQua.Location = new System.Drawing.Point(277, 216);
+            this.txtKetQua.Location = new System.Drawing.Point(166, 219);
             this.txtKetQua.Name = "txtKetQua";
-            this.txtKetQua.Size = new System.Drawing.Size(232, 22);
+            this.txtKetQua.Size = new System.Drawing.Size(453, 22);
             this.txtKetQua.TabIndex = 3;
             // 
             // btnTim
@@ -168,6 +171,18 @@
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click_1);
+            // 
+            // rbKTCP
+            // 
+            this.rbKTCP.AutoSize = true;
+            this.rbKTCP.Location = new System.Drawing.Point(27, 107);
+            this.rbKTCP.Name = "rbKTCP";
+            this.rbKTCP.Size = new System.Drawing.Size(176, 20);
+            this.rbKTCP.TabIndex = 2;
+            this.rbKTCP.TabStop = true;
+            this.rbKTCP.Text = "Kiểm tra số chính phương";
+            this.rbKTCP.UseVisualStyleBackColor = true;
+            this.rbKTCP.CheckedChanged += new System.EventHandler(this.rbKTCP_CheckedChanged);
             // 
             // Form1
             // 
@@ -208,6 +223,7 @@
         private System.Windows.Forms.Button btnBoQua;
         private System.Windows.Forms.Button btnThoat;
         private System.Windows.Forms.Label lblSoThuNhat;
+        private System.Windows.Forms.RadioButton rbKTCP;
     }
 }
 

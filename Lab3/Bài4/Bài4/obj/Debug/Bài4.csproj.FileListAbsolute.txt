@@ -1,0 +1,15 @@
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\bin\Debug\Bài4.exe.config
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\bin\Debug\Bài4.exe
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\bin\Debug\Bài4.pdb
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\bin\Debug\Interop.WMPLib.dll
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\bin\Debug\AxInterop.WMPLib.dll
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Bài4.csproj.AssemblyReference.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Interop.WMPLib.dll
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\AxInterop.WMPLib.dll
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Bài4.csproj.ResolveComReference.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Bài4.Form1.resources
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Bài4.Properties.Resources.resources
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Bài4.csproj.GenerateResource.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Bài4.csproj.CoreCompileInputs.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Bài4.exe
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab3\Bài4\Bài4\obj\Debug\Bài4.pdb
