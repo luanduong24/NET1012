@@ -1,0 +1,10 @@
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\bin\Debug\Bai4.exe.config
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\bin\Debug\Bai4.exe
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\bin\Debug\Bai4.pdb
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\obj\Debug\Bai4.Form1.resources
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\obj\Debug\Bai4.exe
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bai4\Bai4\obj\Debug\Bai4.pdb

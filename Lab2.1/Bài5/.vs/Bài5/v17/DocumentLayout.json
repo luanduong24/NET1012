@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\B\u00E0i5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BF2CFA-BF9F-46B8-B81C-C2564EE49650}|B\u00E0i5\\B\u00E0i5.csproj|E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\B\u00E0i5\\b\u00E0i5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82BF2CFA-BF9F-46B8-B81C-C2564EE49650}|B\u00E0i5\\B\u00E0i5.csproj|solutionrelative:b\u00E0i5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BF2CFA-BF9F-46B8-B81C-C2564EE49650}|B\u00E0i5\\B\u00E0i5.csproj|e:\\h\u1ECDc t\u1EADp\\net1021 - lap trinh c# 2\\net1012\\lab2\\b\u00E0i5\\b\u00E0i5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BF2CFA-BF9F-46B8-B81C-C2564EE49650}|B\u00E0i5\\B\u00E0i5.csproj|solutionrelative:b\u00E0i5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\B\u00E0i5\\B\u00E0i5\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i5\\Form1.cs",
+              "ToolTip": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\B\u00E0i5\\B\u00E0i5\\Form1.cs",
+              "RelativeToolTip": "B\u00E0i5\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:09:28.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\B\u00E0i5\\B\u00E0i5\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i5\\Form1.cs",
+              "ToolTip": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\B\u00E0i5\\B\u00E0i5\\Form1.cs [Design]",
+              "RelativeToolTip": "B\u00E0i5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:00:58.299Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\Bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC0C5D-27FA-439B-9274-09DE0BE264E4}|Bai4\\Bai4.csproj|e:\\h\u1ECDc t\u1EADp\\net1021 - lap trinh c# 2\\net1012\\lab2\\bai4\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDC0C5D-27FA-439B-9274-09DE0BE264E4}|Bai4\\Bai4.csproj|solutionrelative:bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC0C5D-27FA-439B-9274-09DE0BE264E4}|Bai4\\Bai4.csproj|E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\Bai4\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFDC0C5D-27FA-439B-9274-09DE0BE264E4}|Bai4\\Bai4.csproj|solutionrelative:bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\Bai4\\Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai4\\Form1.cs",
+              "ToolTip": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\Bai4\\Bai4\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:45:56.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\Bai4\\Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai4\\Form1.cs",
+              "ToolTip": "E:\\H\u1ECDc T\u1EADp\\NET1021 - Lap Trinh C# 2\\NET1012\\Lab2\\Bai4\\Bai4\\Form1.cs",
+              "RelativeToolTip": "Bai4\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:48:00.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\bin\Debug\Bài5.exe.config
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\bin\Debug\Bài5.exe
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\bin\Debug\Bài5.pdb
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\obj\Debug\Bài5.csproj.AssemblyReference.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\obj\Debug\Bài5.Form1.resources
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\obj\Debug\Bài5.Properties.Resources.resources
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\obj\Debug\Bài5.csproj.GenerateResource.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\obj\Debug\Bài5.csproj.CoreCompileInputs.cache
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\obj\Debug\Bài5.exe
+E:\Học Tập\NET1021 - Lap Trinh C# 2\NET1012\Lab2\Bài5\Bài5\obj\Debug\Bài5.pdb
